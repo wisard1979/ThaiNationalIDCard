@@ -1,0 +1,11 @@
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\bin\Debug\ThaiNationalIDCard.Example.exe.config
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\bin\Debug\ThaiNationalIDCard.Example.exe
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\bin\Debug\ThaiNationalIDCard.Example.pdb
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\bin\Debug\pcsc-sharp.dll
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\bin\Debug\ThaiNationalIDCard.dll
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.csprojResolveAssemblyReference.cache
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.frmMain.resources
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.Properties.Resources.resources
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.csproj.GenerateResource.Cache
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.exe
+C:\Application\ThaiNationalIDCard.Example-master\ThaiNationalIDCard.Example\obj\Debug\ThaiNationalIDCard.Example.pdb
